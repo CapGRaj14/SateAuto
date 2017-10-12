@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="82447" started-at="2017-10-11T12:50:55Z" finished-at="2017-10-11T12:52:17Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="82447" started-at="2017-10-11T12:50:55Z" finished-at="2017-10-11T12:52:17Z">
+      <class name="TestScripts.TC023_PhoneNotes">
+        <test-method status="PASS" signature="createActiveScreenBrowser()[pri:0, instance:TestScripts.TC023_PhoneNotes@527e5409]" name="createActiveScreenBrowser" is-config="true" duration-ms="864" started-at="2017-10-11T18:20:55Z" finished-at="2017-10-11T18:20:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createActiveScreenBrowser -->
+        <test-method status="PASS" signature="tc023()[pri:0, instance:TestScripts.TC023_PhoneNotes@527e5409]" name="tc023" duration-ms="81414" started-at="2017-10-11T18:20:56Z" finished-at="2017-10-11T18:22:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc023 -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:TestScripts.TC023_PhoneNotes@527e5409]" name="afterClass" is-config="true" duration-ms="102" started-at="2017-10-11T18:22:17Z" finished-at="2017-10-11T18:22:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- TestScripts.TC023_PhoneNotes -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

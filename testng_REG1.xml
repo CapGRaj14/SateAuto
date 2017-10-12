@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+<<<<<<< HEAD
+      
+      <class name="TestScripts.TC023_PhoneNotes"/>
+      <!--<class name="TestScripts.TC001_UpdateUser"/>
+  <class name="TestScripts.TC006_CreatingClaim"/>
+=======
+    <class name="TestScripts.TC001_UpdateUser"/>
+   <!-- <class name="TestScripts.TC006_CreatingClaim"/>
+>>>>>>> bea5b4d1154289ecbb64714fd6c84f6fda13b41a
+    
+      <class name="TestScripts.TC002_AddNewContract"/>
+     <class name="TestScripts.TC001_UpdateUser"/>
+      <class name="TestScripts.TC003_AssignedAccountUsers"/>
+       <class name="TestScripts.TC004_AssignedPolicyUsers"/>
+      <class name="TestScripts.TC005_CreatingContact"/>
+      
+      
+     
+      <class name="TestScripts.TC003_AssignedAccountUsers"/>
+      <class name="TestScripts.TC002_AddNewContract"/> -->
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
