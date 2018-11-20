@@ -9,5 +9,6 @@ public static void main(String[] args) {
 	b=a-b;
 	a=a-b;
 	System.out.println("After Swap"+a);
+	System.out.println("Given program is swapped successfully");
 }
 }
